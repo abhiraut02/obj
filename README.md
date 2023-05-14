@@ -6,4 +6,4 @@
 ![screenshot](https://user-images.githubusercontent.com/94921807/169778887-7361e8e7-88c4-4d37-aea6-933154bbc518.PNG)
 
 ## Use
-Click on it —> [Object Detection](https://nitish312.github.io/Object-Detection/)
+Click on it —> [Object Detection](https://abhiraut02.github.io/obj/)
